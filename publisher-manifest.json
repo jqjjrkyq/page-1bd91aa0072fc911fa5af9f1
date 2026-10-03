@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "22512badd24d8ea51c296549",
+  "owner": "jqjjrkyq",
+  "repo": "page-1bd91aa0072fc911fa5af9f1",
+  "title": "马云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "1bd91aa0072fc911fa5af9f1",
+      "a": "马云",
+      "b": "",
+      "entity": "马云",
+      "brand": "马云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "f53fc39932cfc3d2ecf07c18c44bdf25da87bf9fd9487cd18737d8798968ee53",
+      "content": {
+        "keyword1": "马云",
+        "keyword2": "",
+        "primary_entity": "马云",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "马云官方网站提供稳定的机场订阅服务与VPN客户端下载，覆盖网络加速、流媒体解锁、游戏优化等场景，套餐含基础版、旗舰版和团队版，支持多设备与专线节点。",
+          "AI_DESCRIPTION": "马云官方网站提供稳定的机场订阅服务与VPN客户端下载，覆盖网络加速、流媒体解锁、游戏优化等场景，套餐含基础版、旗舰版和团队版，支持多设备与专线节点。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>body{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif;background:#0a1929;color:#ccd6f6;line-height:1.65;font-size:17px;margin:0;padding:0;overflow-x:hidden}header{background:#020c1b;padding:12px 16px;border-bottom:1px solid #1e3a5f}.nav{display:flex;flex-wrap:wrap;gap:8px 16px;justify-content:center}.nav a{color:#00e5ff;text-decoration:none;font-size:15px;padding:4px 0}.wrap{width:100%;max-width:960px;margin:0 auto;padding:16px}h1{font-size:1.75rem;color:#64ffda;margin:16px 0;text-align:center}h2{font-size:1.35rem;color:#00e5ff;margin:28px 0 12px;padding-bottom:6px;border-bottom:1px solid #233554}h3{font-size:1.1rem;color:#a8fff0;margin:18px 0 8px}p,li{margin-bottom:10px}.plans{display:flex;flex-wrap:wrap;gap:16px;justify-content:center}.plan{flex:1 1 260px;background:#112240;border:1px solid #1e3a5f;padding:18px;border-radius:6px}.plan.featured{border:2px solid #64ffda;background:#0d2137}.plan h3{margin-top:0;color:#64ffda}.price{font-size:1.3rem;color:#fff;margin:8px 0}.annual{font-size:0.9rem;color:#8892b0}ul.feat{padding-left:20px}.editorial{display:flex;flex-wrap:wrap;gap:24px}.maincol{flex:2 1 500px}.sidecol{flex:1 1 240px;background:#112240;padding:16px;border-radius:6px}details{background:#0d2137;margin-bottom:10px;border-radius:4px;border:1px solid #1e3a5f}summary{padding:12px 14px;font-weight:600;color:#00e5ff}details p{padding:0 14px 12px;color:#8892b0}footer{background:#020c1b;padding:20px 16px;margin-top:40px;font-size:14px;color:#8892b0;text-align:center}footer a{color:#00e5ff;margin:0 6px;text-decoration:none}.ads,.friends{margin:20px 0;padding:12px;background:#112240;border-radius:4px}.ads p,.friends p{font-size:14px}@media (max-width:600px){h1{font-size:1.5rem}.plan{flex-basis:100%}body{font-size:16px}}</style><header><nav class=\"nav wrap\"><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐价格</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">配置流程</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#sitemap\">网站地图</a></nav></header><main class=\"wrap\"><h1>马云官方网站</h1><section id=\"intro\"><h2>品牌简介</h2><div class=\"editorial\"><div class=\"maincol\"><p>马云是面向跨境网络加速的机场与 VPN 服务品牌，专注稳定订阅、清晰配置流程与多端客户端兼容。马云机场提供按月重置的极速流量、多地区节点与流媒体解锁能力，帮助用户完成办公访问、学术检索、影音娱乐与游戏加速。</p><p>本站为马云官网信息页，套餐、操作说明与下载指引均以本页为准。节点覆盖香港、日本、新加坡、美国及欧洲等区域，旗舰线路含 IPLC 专线优化。我们强调可阅读的配置步骤：从选套餐、复制订阅到客户端导入，通常数分钟即可连上。</p><p>马云不把复杂术语堆在首页。普通用户按五步流程即可使用；进阶用户可在客户端内做分流与路由。团队版面向多设备与定制需求。请通过官网渠道获取订阅，避免来源不明的客户端或节点列表。</p></div><aside class=\"sidecol\"><h3>官方身份</h3><p>马云品牌由运营团队维护，服务说明、套餐价格与客户端获取方式仅以本官网展示为准。开通后请在面板查看订阅与工单入口。</p><h3>性能要点</h3><p>常规线路适合浏览与视频；旗舰版强化原生流媒体与游戏延迟。高峰时段仍以合理带宽调度为主，具体体验因当地网络而异。</p></aside></div></section><section id=\"plans\"><h2>套餐价格</h2><p>三档套餐对应流量、同时在线设备与线路能力。年付可降低月均费用，流量仍按自然月重置。旗舰版适合多数个人用户。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul class=\"feat\"><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul class=\"feat\"><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul class=\"feat\"><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div></section><section id=\"scenes\"><h2>使用场景</h2><h3>跨境办公与协作</h3><p>远程会议、云文档与海外业务系统访问时，选择延迟较低的区域节点，保持会话稳定。团队版可按部门分配设备额度。</p><h3>学术与资料检索</h3><p>访问国际期刊、预印本与公开课平台时，使用标准加密隧道即可。建议搭配分流规则，国内站点直连以节省流量。</p><h3>流媒体与长视频</h3><p>旗舰版与团队版侧重原生解锁。观看前更新订阅并选用标注流媒体的节点，避免公共共享 IP 造成的地区限制。</p><h3>游戏与实时互动</h3><p>旗舰版 IPLC 面向常见对战与联网游戏，目标是降低抖动。实际帧率仍取决于本机与运营商线路，可在客户端查看延迟后切换。</p><h3>多设备家庭或小团队</h3><p>同一订阅在电脑、手机与路由器间分配。注意同时在线上限，超出后新设备将无法握手，可升级或错峰使用。</p></section><section id=\"guide\"><h2>配置流程与操作说明</h2><p>马云将上手路径固定为五步，减少在论坛里东拼西凑教程的成本。请按顺序完成，遇阻先核对设备数量与订阅是否过期。</p><h3>第一步：选择并开通套餐</h3><p>对照流量与设备数选择基础版、旗舰版或团队版。确认计费周期后完成开通，年付订单在面板中显示到期日。</p><h3>第二步：复制机场订阅链接</h3><p>登录后在订阅页复制通用订阅地址，兼容 Clash、V2Ray 及常见 iOS 客户端格式。不要把链接发到公开群组。</p><h3>第三步：准备客户端</h3><p>按系统选择成熟开源或官方推荐客户端。安装来源以本站说明与面板提示为准，避免来路不明的修改版。</p><h3>第四步：导入订阅并连接</h3><p>在客户端粘贴订阅、更新节点列表，按延迟或用途筛选。首次连接建议选香港或日本节点做连通性测试。</p><h3>第五步：分流与日常维护</h3><p>开启规则分流，国内直连、境外走代理。每月初流量重置；节点异常时更新订阅或换线路。旗舰用户走优先工单。</p></section><section id=\"download\"><h2>客户端下载</h2><p>马云官网在此页提供官方下载指引，不在公开位置放置易被替换的安装包直链。开通套餐后，可在用户中心按 Windows、macOS、Android、iOS 与路由器分类获取校验信息与推荐客户端名称。</p><p>Windows 与 macOS 常用图形客户端导入订阅即可；移动端请使用系统允许的商店或企业分发渠道中的对应应用。路由器用户将订阅写入兼容插件。下载与安装完成后回到<a href=\"#guide\">配置流程</a>完成导入。若提示证书或签名问题，停止安装并仅使用官网标明的来源。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>马云机场和马云 VPN 是什么关系？</summary><p>马云是统一品牌。机场指订阅与节点交付方式，VPN 与加速器指用户侧客户端里的加密代理能力。本页同时说明套餐、配置与官方下载路径，避免在多个入口重复寻找。</p></details><details><summary>如何从官网完成客户端下载并开始加速？</summary><p>先开通套餐并复制订阅，再按设备在用户中心查看推荐客户端。安装后导入订阅、更新节点并连接。详细步骤见配置流程，无需额外脚本或第三方不明链接。</p></details><details><summary>三个套餐该怎么选？流量用完会怎样？</summary><p>轻度浏览选基础版；需要流媒体与游戏优化选旗舰版；多设备或要定制路由选团队版。流量按月重置，用尽后可能限速，可升级套餐或等待下个周期，不会自动扣费扩容。</p></details><details><summary>支持哪些设备，节点大概覆盖哪里？</summary><p>常见桌面、手机与部分路由器均可，受套餐同时在线数限制。节点包括亚太与欧美主要城市，旗舰含 IPLC。具体列表以订阅更新后客户端显示为准。</p></details><details><summary>流媒体解锁和游戏加速有没有保证？</summary><p>旗舰与团队版强调原生解锁与专线优化，但仍受目标网站风控与本地运营商影响。遇到地区限制时更换解锁节点或更新订阅。游戏请以延迟检测结果选择线路。</p></details><details><summary>如何确认自己访问的是马云官网而不是仿冒页？</summary><p>认准本页结构中的品牌名、套餐表与配置五步说明，并通过您保存的官方入口回访。不要向陌生人发送订阅链接，也不要安装无法核验来源的客户端。</p></details></section><section id=\"ads\" class=\"ads\"><h2>广告</h2><p>广告位：欢迎与网络基础设施、域名与企业协作工具类站点洽谈文字合作。咨询请通过套餐页说明中的工单渠道，本页仅作展示，不跳转外部落地页。</p><p><a href=\"#plans\">查看套餐</a> · <a href=\"#faq\">阅读说明</a></p></section><section id=\"links\" class=\"friends\"><h2>友情链接</h2><p>以下为演示用友链入口，均指向本页锚点，便于单页静态站点维护。</p><p><a href=\"#intro\">品牌说明</a> <a href=\"#guide\">配置手册</a> <a href=\"#download\">下载指引</a> <a href=\"#faq\">问题列表</a></p></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer id=\"sitemap\"><p>网站地图</p><p><a href=\"#intro\">简介</a><a href=\"#plans\">套餐</a><a href=\"#scenes\">场景</a><a href=\"#guide\">配置</a><a href=\"#download\">下载</a><a href=\"#faq\">FAQ</a><a href=\"#ads\">广告</a><a href=\"#links\">友链</a></p><p>马云官方网站 · 机场订阅与 VPN 加速器信息页 · 内容以本页为准</p></footer>",
+          "hash": "daa33129b1a9f07195065fa7ca575e3faeead17251edfc7aab759dd1ae67f5f0",
+          "seo": {
+            "title": "马云官网 | 马云机场订阅、VPN加速器与官方客户端下载",
+            "keywords": "马云,马云官网,马云机场,马云VPN,梯子,网络加速,加速器,客户端下载,官方下载,机场订阅,IPLC,配置流程",
+            "description": "马云官方网站提供稳定的机场订阅服务与VPN客户端下载，覆盖网络加速、流媒体解锁、游戏优化等场景，套餐含基础版、旗舰版和团队版，支持多设备与专线节点。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "sj-mk.cn",
+    "host": "p-62ff80d49f.sj-mk.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "sj-mk.cn",
+      "url": "https://sj-mk.cn/",
+      "label": "逸云(NETRON)",
+      "apex": "sj-mk.cn",
+      "kind": null,
+      "identity": "pvrfktq/page-ddc82e0276130a04671be0b8"
+    },
+    {
+      "host": "9dix8b.cn",
+      "url": "https://9dix8b.cn/",
+      "label": "马云",
+      "apex": "9dix8b.cn",
+      "kind": null,
+      "identity": "qjcuyyd/page-d7df4bb5b085e596b607c1c6"
+    },
+    {
+      "host": "acicis.cn",
+      "url": "https://acicis.cn/",
+      "label": "马云",
+      "apex": "acicis.cn",
+      "kind": null,
+      "identity": "mgcskb/page-153bfdb5b89afdaeeaea6f8e"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "c1e18c534230e83139884b91dd1834b8bec89bb848486657af35a86f019a0304",
+    "sitemap.xml": "ead5cd8fd0994cce9479b40d35f47edf06049f9354537f02f65b663d047fdfe5",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "02fc4e00ae4c8ebd0950a9ee779563a44c09f9250cd4fcfbee52f358cb2adc9b",
+    "robots.txt": "0cf7b98bf22b20fe79dcc3995878554ee173f016d36178a8db2badc81b2633db",
+    "31992974ac46d7fd4d319be3b2d8bdcc.txt": "c2ba459669d802ce170fcd3404fc9b9540738a26d3b42a2d32e8314d846856c6"
+  },
+  "revision": "63fd0355d2438a28bc0325dab975c8133632f2cc977d46ebcc25c057f5267fae"
+}
